@@ -1,0 +1,11 @@
+c:\users\narasimha\source\repos\EmployeeCoreWebAPI\EmployeeCoreWebAPI\obj\Debug\netcoreapp2.0\EmployeeCoreWebAPI.csprojAssemblyReference.cache
+c:\users\narasimha\source\repos\EmployeeCoreWebAPI\EmployeeCoreWebAPI\obj\Debug\netcoreapp2.0\EmployeeCoreWebAPI.csproj.CoreCompileInputs.cache
+c:\users\narasimha\source\repos\EmployeeCoreWebAPI\EmployeeCoreWebAPI\obj\Debug\netcoreapp2.0\EmployeeCoreWebAPI.AssemblyInfoInputs.cache
+c:\users\narasimha\source\repos\EmployeeCoreWebAPI\EmployeeCoreWebAPI\obj\Debug\netcoreapp2.0\EmployeeCoreWebAPI.AssemblyInfo.cs
+c:\users\narasimha\source\repos\EmployeeCoreWebAPI\EmployeeCoreWebAPI\bin\Debug\netcoreapp2.0\EmployeeCoreWebAPI.deps.json
+c:\users\narasimha\source\repos\EmployeeCoreWebAPI\EmployeeCoreWebAPI\bin\Debug\netcoreapp2.0\EmployeeCoreWebAPI.runtimeconfig.json
+c:\users\narasimha\source\repos\EmployeeCoreWebAPI\EmployeeCoreWebAPI\bin\Debug\netcoreapp2.0\EmployeeCoreWebAPI.runtimeconfig.dev.json
+c:\users\narasimha\source\repos\EmployeeCoreWebAPI\EmployeeCoreWebAPI\bin\Debug\netcoreapp2.0\EmployeeCoreWebAPI.dll
+c:\users\narasimha\source\repos\EmployeeCoreWebAPI\EmployeeCoreWebAPI\bin\Debug\netcoreapp2.0\EmployeeCoreWebAPI.pdb
+c:\users\narasimha\source\repos\EmployeeCoreWebAPI\EmployeeCoreWebAPI\obj\Debug\netcoreapp2.0\EmployeeCoreWebAPI.dll
+c:\users\narasimha\source\repos\EmployeeCoreWebAPI\EmployeeCoreWebAPI\obj\Debug\netcoreapp2.0\EmployeeCoreWebAPI.pdb
